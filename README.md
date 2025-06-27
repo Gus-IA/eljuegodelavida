@@ -17,3 +17,16 @@ El **Juego de la Vida** es un autómata celular creado por el matemático John C
 2. Una célula viva con 2 o 3 vecinos sobrevive.
 3. Una célula viva con más de 3 vecinos muere (superpoblación).
 4. Una célula muerta con exactamente 3 vecinos vivos se convierte en una célula viva (nacimiento).
+
+## 🧠 ¿Qué tiene que ver con IA?
+
+Aunque no es IA per se, el Juego de la Vida introduce conceptos clave que se exploran en inteligencia artificial y sistemas complejos:
+
+- **Sistemas emergentes**.
+- **Simulación basada en agentes**.
+- **Modelos sin supervisión de reglas**.
+- **Computación basada en patrones**.
+
+🧑‍💻 Autor
+
+Desarrollado por [Tu Nombre] como parte de su aprendizaje en Python e IA.
