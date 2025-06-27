@@ -29,4 +29,4 @@ Aunque no es IA per se, el Juego de la Vida introduce conceptos clave que se exp
 
 🧑‍💻 Autor
 
-Desarrollado por [Tu Nombre] como parte de su aprendizaje en Python e IA.
+Desarrollado por Gus como parte de su aprendizaje en Python e IA.
