@@ -27,6 +27,13 @@ Aunque no es IA per se, el Juego de la Vida introduce conceptos clave que se exp
 - **Modelos sin supervisión de reglas**.
 - **Computación basada en patrones**.
 
+### Instalación
+
+Instala las dependencias con:
+
+```bash
+pip install -r requirements.txt
+
 🧑‍💻 Autor
 
 Desarrollado por Gus como parte de su aprendizaje en Python e IA.
